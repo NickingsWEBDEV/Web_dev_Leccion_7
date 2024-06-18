@@ -6,4 +6,4 @@
 - torta
 - tocineta
 - queso
-- lehuga
+- lechuga
